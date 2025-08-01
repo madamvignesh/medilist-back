@@ -1,0 +1,8 @@
+GET http://localhost:3000
+
+
+### Get all doctors details
+GET http://localhost:3001/doctors
+
+### Get doctor by ID
+GET http://localhost:3001/doctors/{id}
